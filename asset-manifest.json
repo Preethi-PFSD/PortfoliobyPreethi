@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortfoliobyPreethi/static/css/main.d7a0b494.css",
+    "main.js": "/PortfoliobyPreethi/static/js/main.c443ae0c.js",
+    "static/js/453.50d0773a.chunk.js": "/PortfoliobyPreethi/static/js/453.50d0773a.chunk.js",
+    "static/media/about.png": "/PortfoliobyPreethi/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/PortfoliobyPreethi/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/PortfoliobyPreethi/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Resume.pdf": "/PortfoliobyPreethi/static/media/Resume.929f3e7791aa688d3600.pdf",
+    "static/media/food-ecommerce.jpg": "/PortfoliobyPreethi/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/ecommerce-websites.jpg": "/PortfoliobyPreethi/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "static/media/website-blog.jpg": "/PortfoliobyPreethi/static/media/website-blog.34169abf2d417858685b.jpg",
+    "static/media/permanent logo.png": "/PortfoliobyPreethi/static/media/permanent logo.c9dae0c2bdd05e6ea76f.png",
+    "index.html": "/PortfoliobyPreethi/index.html",
+    "main.d7a0b494.css.map": "/PortfoliobyPreethi/static/css/main.d7a0b494.css.map",
+    "main.c443ae0c.js.map": "/PortfoliobyPreethi/static/js/main.c443ae0c.js.map",
+    "453.50d0773a.chunk.js.map": "/PortfoliobyPreethi/static/js/453.50d0773a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a0b494.css",
+    "static/js/main.c443ae0c.js"
+  ]
+}
